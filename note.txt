@@ -3,6 +3,7 @@ git init (git qoshilishi uchun boshlashdan oldin qilinadigan ish .git papka qosh
 {
     U -> Untracked file   
     A -> Added
+    M -> Modified
 }
 $ git config user.name = Mironshoh
 $ git config user.email = "salimov@gmail.com"

@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.container {
+    max-width: 1320px;
+    width: 100%;
+    padding: 0 12px;
+    margin: 0 auto;
+}
+
+.header {
+    min-height: 100vh;
+    background: dodgerblue;
+
+    .header_nav {
+        padding: 20px 0;
+    }
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .header_list {
+        display: flex;
+        gap: 20px;
+    }
+
+    .header_logo {
+        font-size: 36px;
+        text-transform: uppercase;
+        color: white;
+    }
+
+    .header_link {
+        font-size: 20px;
+        color: white;
+    }
+}
