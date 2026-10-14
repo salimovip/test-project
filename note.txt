@@ -27,3 +27,18 @@ gitk -> oyna ochadi va verisyalrni korsatadi
 $ git log --oneline
 4965032 (HEAD -> master) ver 2.0 header and style added
 c136264 ver 1.0
+
+
+
+git checkout master eng oxirgisiga qaytarib beradi
+boshlanganda master branch beriladi yani vetka
+
+boshqa branch ochish uchun 
+
+git branch yozilsa hammasini chiqaradi
+
+
+git branch html (html nomli branch yaratadi)
+
+
+git checkout -b dev (yangi branch ochib uni ichiga o'tib beradi)
