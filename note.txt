@@ -42,3 +42,6 @@ git branch html (html nomli branch yaratadi)
 
 
 git checkout -b dev (yangi branch ochib uni ichiga o'tib beradi)
+
+
+git merge branch nomi
