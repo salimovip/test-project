@@ -18,3 +18,12 @@ git add (file nomi yoki *) fayllarni qoshish uchun yoziladi
 
 
 git commit -m "text" (-m degani message deganini bildiradi)
+
+
+
+gitk -> oyna ochadi va verisyalrni korsatadi
+
+
+$ git log --oneline
+4965032 (HEAD -> master) ver 2.0 header and style added
+c136264 ver 1.0
