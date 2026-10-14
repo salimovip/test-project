@@ -1,0 +1,19 @@
+git --version (versiyani tekshirish uchun)
+git init (git qoshilishi uchun boshlashdan oldin qilinadigan ish .git papka qoshiladi)
+{
+    U -> Untracked file   
+    A -> Added
+}
+$ git config user.name = Mironshoh
+$ git config user.email = "salimov@gmail.com"
+
+
+git status (qaysi fayllar qoshilganini korsatadi )
+
+
+git add (file nomi yoki *) fayllarni qoshish uchun yoziladi
+
+(use "git rm --cached <file>..." to unstage) bu kerakmas fayl qoshib qoyilgan bo'lsa ochirib yuborish uchun yani olib tashlash uchun
+
+
+git commit -m "text" (-m degani message deganini bildiradi)
