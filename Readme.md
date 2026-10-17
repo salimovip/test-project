@@ -14,7 +14,7 @@
 ## Links
 
 
-my [youtube] (link qoyiladi bu yerga)
+my [youtube](https://www.youtube.com/)
 
 > html
 > css
